@@ -1,3 +1,24 @@
+Sure! Here's a list of the changes for personal pronouns in German, depending on the case (nominative, accusative, dative, and genitive):
+
+| Pronoun      | Nominative (Subject) | Accusative (Direct Object) | Dative (Indirect Object) | Genitive (Possession) |
+|--------------|----------------------|----------------------------|--------------------------|-----------------------|
+| **ich**      | ich (I)               | mich (me)                  | mir (me)                 | meiner (of me)        |
+| **du**       | du (you - informal)   | dich (you - informal)      | dir (you - informal)     | deiner (of you)       |
+| **er**       | er (he)               | ihn (him)                  | ihm (him)                | seiner (of him)       |
+| **sie**      | sie (she)             | sie (her)                  | ihr (her)                | ihrer (of her)        |
+| **es**       | es (it)               | es (it)                    | ihm (it)                 | seiner (of it)        |
+| **wir**      | wir (we)              | uns (us)                   | uns (us)                 | unser (of us)         |
+| **ihr**      | ihr (you all - informal) | euch (you all - informal) | euch (you all - informal) | euer (of you all)     |
+| **sie** (they) | sie (they)            | sie (them)                 | ihnen (them)             | ihrer (of them)       |
+| **Sie** (formal you) | Sie (you - formal) | Sie (you - formal)        | Ihnen (you - formal)     | Ihrer (of you)        |
+
+### Key Points:
+- **Nominative** is used for the subject of the sentence (who or what is doing the action).
+- **Accusative** is used for the direct object (who or what is directly receiving the action).
+- **Dative** is used for the indirect object (who or what is receiving the benefit of the action).
+- **Genitive** shows possession or relationships between things. 
+
+Let me know if you need further clarification!
 
 BASIC GERMAN:
 
